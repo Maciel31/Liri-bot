@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativelaurels/LIRI-node-bot.git"
+    "url": "git+https://github.Maciel31/LIRI-node-bot.git"
   },
   "author": "L Farrell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/creativelaurels/LIRI-node-bot/issues"
+    "url": "https://github.com/Maciel31/LIRI-node-bot/issues"
   },
-  "homepage": "https://github.com/creativelaurels/LIRI-node-bot#readme"
+  "homepage": "https://github.com/Maciel31/LIRI-node-bot#readme"
 }
